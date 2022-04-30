@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/demoEJB.iml" filepath="$PROJECT_DIR$/demoEJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB20-TomEE8-example.iml" filepath="$PROJECT_DIR$/EJB20-TomEE8-example.iml" />
     </modules>
   </component>
 </project>

@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demoEJB" />
+        <module name="EJB20-TomEE8-example" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="demoEJB" target="1.8" />
+      <module name="EJB20-TomEE8-example" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
